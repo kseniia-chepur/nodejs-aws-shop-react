@@ -1,5 +1,5 @@
 # Deploy
-http://aws-shop-react.s3-website.eu-north-1.amazonaws.com/ - S3 bucket, returns 404
+http://aws-shop-react.s3-website.eu-north-1.amazonaws.com/ - S3 bucket, returns 403 Forbidden
 https://d2q703is0a416f.cloudfront.net/ - CloudFront
 
 
