@@ -1,6 +1,12 @@
-# Deploy
-http://aws-shop-react.s3-website.eu-north-1.amazonaws.com/ - S3 bucket, returns 403 Forbidden
-https://d2q703is0a416f.cloudfront.net/ - CloudFront
+# Automated Deploy
+[S3 bucket](http://aws-rss-shop-react.s3-website-us-east-1.amazonaws.com/) - returns 403 Forbidden
+
+[CloudFront](https://dwjla8y2ri2xx.cloudfront.net/)
+
+# Manual Deploy
+[S3 bucket](http://aws-shop-react.s3-website.eu-north-1.amazonaws.com/) - returns 403 Forbidden
+
+[CloudFront](https://d2q703is0a416f.cloudfront.net/)
 
 
 # React-shop-cloudfront
